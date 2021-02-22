@@ -58,8 +58,7 @@
       "files": ["**/*.ts?(x)"],
       "extends": [
         "plugin:@typescript-eslint/recommended",
-        "plugin:@typescript-eslint/recommended-requiring-type-checking",
-        "prettier/@typescript-eslint"
+        "plugin:@typescript-eslint/recommended-requiring-type-checking"
       ],
       "parser": "@typescript-eslint/parser",
       "parserOptions": {
